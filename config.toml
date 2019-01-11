@@ -1,6 +1,6 @@
 baseURL = "https://zfj.im/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Set Zhao"
 
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
@@ -21,10 +21,10 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    #favicon_32 = "/img/favicon-32x32.png"
+    #favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    #footercontent = "Enter a text here."
 
     hidecredits = false
     hidecopyright = false
@@ -32,24 +32,24 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    #custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
-[[params.social]]
-    name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://github.com/slertness/"
+# [[params.social]]
+#     name = "Gitlab"
+#     icon = "fab fa-gitlab fa-2x"
+#     weight = 2
+#     url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#     name = "Twitter"
+#     icon = "fab fa-twitter fa-2x"
+#     weight = 3
+#     url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
